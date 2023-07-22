@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PololetniProjekt_Hofrichter_I4A_S2/1.0.0": {
+        "runtime": {
+          "PololetniProjekt_Hofrichter_I4A_S2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PololetniProjekt_Hofrichter_I4A_S2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
